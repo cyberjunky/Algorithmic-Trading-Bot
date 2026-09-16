@@ -4,11 +4,11 @@ dash-bootstrap-components==1.0.2
 dash-labs==1.0.1
 gunicorn==23.0.0
 plotly==5.4.0
-Werkzeug==3.0.6
+Werkzeug==3.1.6
 numpy==1.22.2
 pandas==1.4.1
-requests==2.32.2
-scikit_learn==1.1.1
+requests==2.33.0
+scikit_learn==1.5.0
 tensorflow==2.12.1
 yfinance==0.1.70
 pybit==2.0.1
